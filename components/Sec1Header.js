@@ -47,11 +47,12 @@ function Sec1Header(props) {
         </div>
         <div className='mt-36 z-20  relative'>
           <Tooltip
+           aria-hidden="true"
             content={"Thank you 😊 "}
             className='bounce-2 box absolute'
             rounded
             color='primary'>
-            <Button auto flat>
+            <Button auto flat   aria-hidden="true">
               Hover me
             </Button>
           </Tooltip>
@@ -73,6 +74,7 @@ layout='fill'
 
 <div className='relative  pt-60 ml-96 pl-32 rotate-12'>
           <Switch
+           aria-hidden="true"
             shadow
             color='primary'
             className=' bounce-2 box4 '

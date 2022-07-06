@@ -210,7 +210,6 @@ function Contact() {
                             required
                           />
                         </div>
-
                         <div className='w-full '>
                           <p className='text-left ml-1 my-1'>Email </p>
 

@@ -20,7 +20,9 @@ function _app({ Component, pageProps }) {
         <meta name="description" content="Our web developers create custom web application solutions we deliver web presence to help you grow your business using the best web technologies ."/>
         <meta name="description" content="Starting from concept, information architecture, visual identity and UI/UX design, our team delivers dazzling experiences for maximum user engagement."/>
 
-
+          <script async
+                  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3704254540700382"
+                  crossOrigin="anonymous"></script>
 
        
         <link rel='shortcut icon' href='favico.ico' />

@@ -208,7 +208,7 @@ function TeamMembersHome() {
               <div className='mt-3 space-y-2 text-center'>
                 <div className='space-y-1 text-lg font-medium leading-6'>
                   <h3>Hatem Ali</h3>
-                  <p className='text-gray-500 font-medium'>Senior Frontend Developer</p>
+                  <p className='text-gray-500 font-medium'>Frontend Developer</p>
                 </div>
               </div>
             </div>
